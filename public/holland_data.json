@@ -1,0 +1,288 @@
+[
+  {
+    "title": "Bagian 1",
+    "desc": "Dalam skala dari \"0\" (Sangat Tidak Suka) hingga \"3\" (Sangat Suka), apakah pendapat anda terhadap kegiatan-kegiatan berikut",
+    "scale": {
+      "low": {
+        "val": 0,
+        "label": "Sangat Tidak Suka"
+      },
+      "high": {
+        "val":3,
+        "label": "Sangat Suka"
+      }
+    },
+    "entry" : [
+      {
+        "question":"Memperbaiki alat-alat listrik (seterika, dll)",
+        "category": "R"
+      },
+      {
+        "question":"Memperbaiki mobil",
+        "category": "R"
+      },
+      {
+        "question":"Memperbaiki alat-alat mekanin (sepeda, dll)",
+        "category": "R"
+      },
+      {
+        "question":"Membuat benda dari kayu",
+        "category": "R"
+      },
+      {
+        "question":"Beternak ayam, bebek atau angsa",
+        "category": "R"
+      },
+      {
+        "question":"Menggunakan perkakas bengkel dan mesin-mesin",
+        "category": "R"
+      },
+      {
+        "question":"Membudidayakan tanaman hias",
+        "category": "R"
+      },
+      {
+        "question":"Mengikuti kursus perbengkelan",
+        "category": "R"
+      },
+      {
+        "question":"Mengikuti kursus menggambar keteknikan",
+        "category": "R"
+      },
+      {
+        "question":"Mengikuti kursus kerajinan kayu",
+        "category": "R"
+      },
+      {
+        "question":"Mengikuti kursus montir mobil",
+        "category": "R"
+      },
+
+      {
+        "question": "Bertemu dengan pengamat masalah sosial atau pendidikan",
+        "category": "S"
+      },
+      {
+        "question": "Membaca artikel atau buku mengenai masalah sosial",
+        "category": "S"
+      },
+      {
+        "question": "Bekerja untuk palang merah",
+        "category": "S"
+      },
+      {
+        "question": "Membantu orang lain dengan masalah pribadinya",
+        "category": "S"
+      },
+      {
+        "question": "Menjaga/mengurus dan mengawasi anak-anak",
+        "category": "S"
+      },
+      {
+        "question": "Mempelajari kenakalan remaja",
+        "category": "S"
+      },
+      {
+        "question": "Mengajar di perguruan tinggi",
+        "category": "S"
+      },
+      {
+        "question": "Membaca buku-buku Psikologi (pergaulan, dll)",
+        "category": "S"
+      },
+      {
+        "question": "Membantu orang-orang berkebutuhan khusus",
+        "category": "S"
+      },
+      {
+        "question": "Mengambil kursus hubungan masyarakat",
+        "category": "S"
+      },
+      {
+        "question": "Mengajar di sekolah lanjutan (SMP,SMA)",
+        "category": "S"
+      },
+
+      {
+        "question": "Membaca buku atau majalah ilmiah",
+        "category": "I"
+      },
+      {
+        "question": "Bekerja di laboratorium",
+        "category": "I"
+      },
+      {
+        "question": "Mengerjakan suatu proyek ilmiah",
+        "category": "I"
+      },
+      {
+        "question": "Mempelajari suatu teori ilmiah",
+        "category": "I"
+      },
+      {
+        "question": "Melakukan percobaan kimia",
+        "category": "I"
+      },
+      {
+        "question": "Membaca mengenai topik-topik khusus atau keinginan sendiri",
+        "category": "I"
+      },
+      {
+        "question": "Menerapkan matematika dalam masalah praktis",
+        "category": "I"
+      },
+      {
+        "question": "Mengambil kursus pelajaran fisika",
+        "category": "I"
+      },
+      {
+        "question": "Mengambil kursus pelajaran kimia",
+        "category": "I"
+      },
+      {
+        "question": "Mengambil kursus pelajaran matematika",
+        "category": "I"
+      },
+      {
+        "question": "Mengambil kursus pelajaran biologi",
+        "category": "I"
+      },
+      {
+        "question": "Mempengaruhi orang lain",
+        "category": "E"
+      },
+      {
+        "question": "Menjual suatu produk",
+        "category": "E"
+      },
+      {
+        "question": "Mempelajari strategi keberhasilan bisnis",
+        "category": "E"
+      },
+      {
+        "question": "Berwiraswasta",
+        "category": "E"
+      },
+      {
+        "question": "Mengikuti ceramah mengenai penjualan",
+        "category": "E"
+      },
+      {
+        "question": "Mengambil kursus singkat administrasi dan kepemimpinan",
+        "category": "E"
+      },
+      {
+        "question": "Menjadi pemimpin dalam kelompok",
+        "category": "E"
+      },
+      {
+        "question": "Mengawasi pekerjaan orang lain",
+        "category": "E"
+      },
+      {
+        "question": "Bertemu dengan tokoh eksekutif dan pemimpin",
+        "category": "E"
+      },
+      {
+        "question": "Memimpin kelompok dalam meraih tujuan tertentu",
+        "category": "E"
+      },
+      {
+        "question": "Menjadi penanggungjawab dalam kampanye politik",
+        "category": "E"
+      },
+
+      {
+        "question": "Membuat sketsa, menggambar atau melukis",
+        "category": "A"
+      },
+      {
+        "question": "Menjadi pemain dalam komedi atau sandiwara",
+        "category": "A"
+      },
+      {
+        "question": "Merancang perabotan, pakaian atau poster",
+        "category": "A"
+      },
+      {
+        "question": "Bermain dalam suatu band,kelompok atau orkestra",
+        "category": "A"
+      },
+      {
+        "question": "Memainkan alat musik",
+        "category": "A"
+      },
+      {
+        "question": "Menulis untuk suatu majalah atau koran",
+        "category": "A"
+      },
+      {
+        "question": "Membuat lukisan atau foto orang",
+        "category": "A"
+      },
+      {
+        "question": "Menulis novel atau sandiwara",
+        "category": "A"
+      },
+      {
+        "question": "Membaca atau menulis puisi",
+        "category": "A"
+      },
+      {
+        "question": "Mengikuti kursus kesenian",
+        "category": "A"
+      },
+      {
+        "question": "Menata atau menggubah musik",
+        "category": "A"
+      },
+
+      {
+        "question": "Mengisi formulir/daftar isian yang panjang",
+        "category": "C"
+      },
+      {
+        "question": "Mengetik sendiri makalah atau surat-surat",
+        "category": "C"
+      },
+      {
+        "question": "Melakukan operasi matematika dalam bisnis atau pembukuan",
+        "category": "C"
+      },
+      {
+        "question": "Mengoperasikan berbagai jenis alat kantor",
+        "category": "C"
+      },
+      {
+        "question": "Membuat catatan pengeluaran yang terperinci",
+        "category": "C"
+      },
+      {
+        "question": "Menyusun sistem pengarsipan (filing)",
+        "category": "C"
+      },
+      {
+        "question": "Mengikuti kursus bisnis",
+        "category": "C"
+      },
+      {
+        "question": "Mengikuti kursus pembukuan (akuntansi)",
+        "category": "C"
+      },
+      {
+        "question": "Mengikuti kursus hitung dagang",
+        "category": "C"
+      },
+      {
+        "question": "Mengoperasikan komputer",
+        "category": "C"
+      },
+      {
+        "question": "Membuat daftar inventaris dari persediaan atau produk",
+        "category": "C"
+      }
+    ]
+  }
+
+
+]

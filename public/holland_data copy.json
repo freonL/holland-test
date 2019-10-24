@@ -1,0 +1,926 @@
+[
+  {
+    "title": "Bagian 1",
+    "desc": "Berikan tanda X pada kotak di bawah huruf \"S\" jika Anda suka kegiatan tersebut dan berilah tanda X pada kotak di bawah huruf \"TS\" jika Anda tidak suka atau biasa saja (bersikap netral) mengenai kegiatan tersebut.",
+    "scale": {
+      "low": {
+        "val": 0,
+        "label": "Tidak Setuju"
+      },
+      "high": {
+        "val":1,
+        "label": "Setuju"
+      }
+    },
+    "entry" : [
+      {
+        "question":"Memperbaiki alat-alat listrik (seterika, dll)",
+        "category": "R"
+      },
+      {
+        "question":"Memperbaiki mobil",
+        "category": "R"
+      },
+      {
+        "question":"Memperbaiki alat-alat mekanin (sepeda, dll)",
+        "category": "R"
+      },
+      {
+        "question":"Membuat benda dari kayu",
+        "category": "R"
+      },
+      {
+        "question":"Beternak ayam, bebek atau angsa",
+        "category": "R"
+      },
+      {
+        "question":"Menggunakan perkakas bengkel dan mesin-mesin",
+        "category": "R"
+      },
+      {
+        "question":"Membudidayakan tanaman hias",
+        "category": "R"
+      },
+      {
+        "question":"Mengikuti kursus perbengkelan",
+        "category": "R"
+      },
+      {
+        "question":"Mengikuti kursus menggambar keteknikan",
+        "category": "R"
+      },
+      {
+        "question":"Mengikuti kursus kerajinan kayu",
+        "category": "R"
+      },
+      {
+        "question":"Mengikuti kursus montir mobil",
+        "category": "R"
+      },
+
+      {
+        "question": "Bertemu dengan pengamat masalah sosial atau pendidikan",
+        "category": "S"
+      },
+      {
+        "question": "Membaca artikel atau buku mengenai masalah sosial",
+        "category": "S"
+      },
+      {
+        "question": "Bekerja untuk palang merah",
+        "category": "S"
+      },
+      {
+        "question": "Membantu orang lain dengan masalah pribadinya",
+        "category": "S"
+      },
+      {
+        "question": "Menjaga/mengurus dan mengawasi anak-anak",
+        "category": "S"
+      },
+      {
+        "question": "Mempelajari kenakalan remaja",
+        "category": "S"
+      },
+      {
+        "question": "Mengajar di perguruan tinggi",
+        "category": "S"
+      },
+      {
+        "question": "Membaca buku-buku Psikologi (pergaulan, dll)",
+        "category": "S"
+      },
+      {
+        "question": "Membantu orang-orang berkebutuhan khusus",
+        "category": "S"
+      },
+      {
+        "question": "Mengambil kursus hubungan masyarakat",
+        "category": "S"
+      },
+      {
+        "question": "Mengajar di sekolah lanjutan (SMP,SMA)",
+        "category": "S"
+      },
+
+      {
+        "question": "Membaca buku atau majalah ilmiah",
+        "category": "I"
+      },
+      {
+        "question": "Bekerja di laboratorium",
+        "category": "I"
+      },
+      {
+        "question": "Mengerjakan suatu proyek ilmiah",
+        "category": "I"
+      },
+      {
+        "question": "Mempelajari suatu teori ilmiah",
+        "category": "I"
+      },
+      {
+        "question": "Melakukan percobaan kimia",
+        "category": "I"
+      },
+      {
+        "question": "Membaca mengenai topik-topik khusus atau keinginan sendiri",
+        "category": "I"
+      },
+      {
+        "question": "Menerapkan matematika dalam masalah praktis",
+        "category": "I"
+      },
+      {
+        "question": "Mengambil kursus pelajaran fisika",
+        "category": "I"
+      },
+      {
+        "question": "Mengambil kursus pelajaran kimia",
+        "category": "I"
+      },
+      {
+        "question": "Mengambil kursus pelajaran matematika",
+        "category": "I"
+      },
+      {
+        "question": "Mengambil kursus pelajaran biologi",
+        "category": "I"
+      },
+      {
+        "question": "Mempengaruhi orang lain",
+        "category": "E"
+      },
+      {
+        "question": "Menjual suatu produk",
+        "category": "E"
+      },
+      {
+        "question": "Mempelajari strategi keberhasilan bisnis",
+        "category": "E"
+      },
+      {
+        "question": "Berwiraswasta",
+        "category": "E"
+      },
+      {
+        "question": "Mengikuti ceramah mengenai penjualan",
+        "category": "E"
+      },
+      {
+        "question": "Mengambil kursus singkat administrasi dan kepemimpinan",
+        "category": "E"
+      },
+      {
+        "question": "Menjadi pemimpin dalam kelompok",
+        "category": "E"
+      },
+      {
+        "question": "Mengawasi pekerjaan orang lain",
+        "category": "E"
+      },
+      {
+        "question": "Bertemu dengan tokoh eksekutif dan pemimpin",
+        "category": "E"
+      },
+      {
+        "question": "Memimpin kelompok dalam meraih tujuan tertentu",
+        "category": "E"
+      },
+      {
+        "question": "Menjadi penanggungjawab dalam kampanye politik",
+        "category": "E"
+      },
+
+      {
+        "question": "Membuat sketsa, menggambar atau melukis",
+        "category": "A"
+      },
+      {
+        "question": "Menjadi pemain dalam komedi atau sandiwara",
+        "category": "A"
+      },
+      {
+        "question": "Merancang perabotan, pakaian atau poster",
+        "category": "A"
+      },
+      {
+        "question": "Bermain dalam suatu band,kelompok atau orkestra",
+        "category": "A"
+      },
+      {
+        "question": "Memainkan alat musik",
+        "category": "A"
+      },
+      {
+        "question": "Menulis untuk suatu majalah atau koran",
+        "category": "A"
+      },
+      {
+        "question": "Membuat lukisan atau foto orang",
+        "category": "A"
+      },
+      {
+        "question": "Menulis novel atau sandiwara",
+        "category": "A"
+      },
+      {
+        "question": "Membaca atau menulis puisi",
+        "category": "A"
+      },
+      {
+        "question": "Mengikuti kursus kesenian",
+        "category": "A"
+      },
+      {
+        "question": "Menata atau menggubah musik",
+        "category": "A"
+      },
+
+      {
+        "question": "Mengisi formulir/daftar isian yang panjang",
+        "category": "C"
+      },
+      {
+        "question": "Mengetik sendiri makalah atau surat-surat",
+        "category": "C"
+      },
+      {
+        "question": "Melakukan operasi matematika dalam bisnis atau pembukuan",
+        "category": "C"
+      },
+      {
+        "question": "Mengoperasikan berbagai jenis alat kantor",
+        "category": "C"
+      },
+      {
+        "question": "Membuat catatan pengeluaran yang terperinci",
+        "category": "C"
+      },
+      {
+        "question": "Menyusun sistem pengarsipan (filing)",
+        "category": "C"
+      },
+      {
+        "question": "Mengikuti kursus bisnis",
+        "category": "C"
+      },
+      {
+        "question": "Mengikuti kursus pembukuan (akuntansi)",
+        "category": "C"
+      },
+      {
+        "question": "Mengikuti kursus hitung dagang",
+        "category": "C"
+      },
+      {
+        "question": "Mengoperasikan komputer",
+        "category": "C"
+      },
+      {
+        "question": "Membuat daftar inventaris dari persediaan atau produk",
+        "category": "C"
+      }
+    ]
+  },
+
+
+  {
+    "title": "Bagian 2",
+    "desc" : "Berikan tanda X pada kotak dibawah huruf \"Y\" (Ya) untuk kegiatan yang mampu Anda lakukan dengan baik dan berilah tanda X pada kotak di bawah huruf \"T\" (Tidak) untuk kegiatan yang tidak pernah Anda lakukan atau tidak mampu Anda lakukan dengan baik",
+    "scale": {
+      "low": {
+        "val": 0,
+        "label": "Tidak"
+      },
+      "high": {
+        "val":1,
+        "label": "Ya"
+      }
+    },
+    "entry" : [
+      {
+        "question": "Saya dapat menggunakan peralatan mesin untuk pertukangan kayu (gergaji kayu listrik, mesin bubut dll)",
+        "category": "R"
+      },
+      {
+        "question": "Saya dapat membuat gambar dengan skala",
+        "category": "R"
+      },
+      {
+        "question": "Saya dapat mengganti minyak mesin mobil atau ban mobil",
+        "category": "R"
+      },
+      {
+        "question": "Saya dapat menggunakan peralatan mesin, misal bor listrik atau mesin jahit",
+        "category": "R"
+      },
+      {
+        "question": "Saya dapat menghaluskan dan memplitur perabotan barang-barang dari kayu",
+        "category": "R"
+      },
+      {
+        "question": "Saya dapat membaca cetak biru (blue print)",
+        "category": "R"
+      },
+      {
+        "question": "Saya dapat melakukan perbaikan kecil pada alat listrik",
+        "category": "R"
+      },
+      {
+        "question": "Saya dapat memperbaiki perabotan",
+        "category": "R"
+      },
+      {
+        "question": "Saya dapat menggunakan hampir semua alat pertukangan kayu",
+        "category": "R"
+      },
+      {
+        "question": "Saya dapat melakukan perbaikan kecil padaTV dan Radio",
+        "category": "R"
+      },
+      {
+        "question": "Saya dapat melakukan perbaikan kecil pada pipa air, keran,dll",
+        "category": "R"
+      },
+
+      {
+        "question": "Saya pandai dalam menolong orang lain yang sedang bingung atau bermasalah",
+        "category": "S"
+      },
+      {
+        "question": "Saya mudah berbicara dengan semua orang",
+        "category": "S"
+      },
+      {
+        "question": "Saya dapat memimpin diskusi kelompok",
+        "category": "S"
+      },
+      {
+        "question": "Saya dapat merencanakan acara hiburan untuk pesta dalam lingkungan terbatas (keluarga, teman,dll)",
+        "category": "S"
+      },
+      {
+        "question": "Saya kompeten dalam menghibur dan menemani orang yang lebih tua dari saya",
+        "category": "S"
+      },
+      {
+        "question": "Saya pandai dalam menjelaskan sesuatu kepada orang lain",
+        "category": "S"
+      },
+      {
+        "question": "Saya telah berpartisipasi dalam pencarian dana atau amal",
+        "category": "S"
+      },
+      {
+        "question": "Saya dapat bekerja sebagai pengurus RT/RW",
+        "category": "S"
+      },
+      {
+        "question": "Saya dapat mengajar anak-anak dengan mudah",
+        "category": "S"
+      },
+      {
+        "question": "Saya dapat mengajar orang dewasa dengan mudah",
+        "category": "S"
+      },
+      {
+        "question": "Orang mencari saya untuk menceritakan masalah mereka",
+        "category": "S"
+      },
+
+      {
+        "question": "Saya dapat menggunakan prinsip aljabar untuk memecahkan masalah matematika",
+        "category": "I"
+      },
+      {
+        "question": "Saya dapat melakukan percobaan atau penelitian ilmiah",
+        "category": "I"
+      },
+      {
+        "question": "Saya mengerti tentang \"waktu paruh\" elemen radioaktif",
+        "category": "I"
+      },
+      {
+        "question": "Saya dapat menggunakan tabel logaritma",
+        "category": "I"
+      },
+      {
+        "question": "Saya dapat menggunakan kalkulator atau mistar hitung",
+        "category": "I"
+      },
+      {
+        "question": "Saya dapat menggunakan mikroskop",
+        "category": "I"
+      },
+      {
+        "question": "Saya dapat memprogram komputer untuk mempelajari masalah ilmiah",
+        "category": "I"
+      },
+      {
+        "question": "Saya dapat menjelaskan fungsi sel darah putih",
+        "category": "I"
+      },
+      {
+        "question": "Saya dapat menginterpretasikan rumus kimia sederhana",
+        "category": "I"
+      },
+      {
+        "question": "Saya mengerti mengapa satelit buatan manusia tidak jatuh ke bumi",
+        "category": "I"
+      },
+      {
+        "question": "Saya menyebutkan tiga makanan yang memiliki protein tinggi",
+        "category": "I"
+      },
+
+      {
+        "question": "Saya memenangkan penghargaan sebagai tenaga penjual atau pemimpin",
+        "category": "E"
+      },
+      {
+        "question": "Saya tahu bagaimana menjadi pemimpin yang sukses",
+        "category": "E"
+      },
+      {
+        "question": "Saya seorang pembicara di depan umum yang baik",
+        "category": "E"
+      },
+      {
+        "question": "Saya dapat mengelola usaha kecil",
+        "category": "E"
+      },
+      {
+        "question": "Saya dapat mengelola kampanye penjualan",
+        "category": "E"
+      },
+      {
+        "question": "Saya dapat mengatur pekerjaan orang lain",
+        "category": "E"
+      },
+      {
+        "question": "Saya dapat membuat  kelompok kerja berjalan dengan baik",
+        "category": "E"
+      },
+      {
+        "question": "Saya dikenal dapat berbicara dengan orang yang sulit",
+        "category": "E"
+      },
+      {
+        "question": "Saya seorang tenaga penjual yang baik",
+        "category": "E"
+      },
+      {
+        "question": "Saya pandai mempengaruhi orang lain",
+        "category": "E"
+      },
+      {
+        "question": "Saya seorang yang berambisi dan cenderung bicara apa adanya",
+        "category": "E"
+      },
+
+      {
+        "question": "Saya dapat memainkan alat musik",
+        "category": "A"
+      },
+      {
+        "question": "Saya dapat menyanyi suara dua atau suara empat dalam paduan suara",
+        "category": "A"
+      },
+      {
+        "question": "Saya dapat menyajikan permainan musik tunggal",
+        "category": "A"
+      },
+      {
+        "question": "Saya dapat bermain dalam sandiwara",
+        "category": "A"
+      },
+      {
+        "question": "Saya dapat menginterpretasikan cerita atau bahan bacaan",
+        "category": "A"
+      },
+      {
+        "question": "Saya dapat menulis laporan berita atau laporan teknis",
+        "category": "A"
+      },
+      {
+        "question": "Saya dapat membuat sketsa orang sehingga ia dapat dikenali",
+        "category": "A"
+      },
+      {
+        "question": "Saya dapat melukis atau membuat patung",
+        "category": "A"
+      },
+      {
+        "question": "Saya dapat menata atau menggubah musik",
+        "category": "A"
+      },
+      {
+        "question": "Saya dapat merancang pakaian, poster atau percobaan",
+        "category": "A"
+      },
+      {
+        "question": "Saya dapat menulis cerita atau puisi",
+        "category": "A"
+      },
+
+      {
+        "question": "Saya dapat mengetik sepuluh jari dengan cepat",
+        "category": "C"
+      },
+      {
+        "question": "Saya dapat menggunakan alat pemproses data yang sederhana seperti komputer",
+        "category": "C"
+      },
+      {
+        "question": "Saya dapat menjalankan mesin duplikator/mesin penjumlah",
+        "category": "C"
+      },
+      {
+        "question": "Saya dapat menulis steno",
+        "category": "C"
+      },
+      {
+        "question": "Saya dapat mengarsip surat dan berkas-berkas lain",
+        "category": "C"
+      },
+      {
+        "question": "Saya dapat melakukan pekerjaan administrasi kantor",
+        "category": "C"
+      },
+      {
+        "question": "Saya dapat menggunakan program pembukuan",
+        "category": "C"
+      },
+      {
+        "question": "Saya dapat melakukan tugas administratif dalam waktu singkat",
+        "category": "C"
+      },
+      {
+        "question": "Saya dapat menggunakan mesin penghitung (kalkulator)",
+        "category": "C"
+      },
+      {
+        "question": "Saya dapat menempatkan kredit dan debit",
+        "category": "C"
+      },
+      {
+        "question": "Saya dapat mencatat dengan cermat pembayaran/penjualan",
+        "category": "C"
+      }
+
+    ]
+  },
+
+  {
+    "title": "Bagian 3",
+    "desc" : "Daftar dibawah ini menggambarkan perasaan dan sikap Anda terhadap bermacam pekerjaan. Pada setiap pekerjaan berilah tanda X dibawah \"Y\" (YA), bila pekerjaan tersebut Anda sukai atau menarik bagi Anda. Berilah tanda X dibawah \"T\" (Tidak), bila Anda merasa pekerjaan tersebut tidak Anda sukai atau tidak menarik bagi Anda.",
+    "scale": {
+      "low": {
+        "val": 0,
+        "label": "Tidak"
+      },
+      "high": {
+        "val":1,
+        "label": "Ya"
+      }
+    },
+    "entry" : [
+      {
+        "question": "Mekanik pesawat terbang",
+        "category": "R"
+      },
+      {
+        "question": "Penanggungjawab keamanan",
+        "category": "R"
+      },
+      {
+        "question": "Mekanik/montir mobil",
+        "category": "R"
+      },
+      {
+        "question": "Pengrajin kayu",
+        "category": "R"
+      },
+      {
+        "question": "Spesialis perikanan dan margasatwa",
+        "category": "R"
+      },
+      {
+        "question": "Ahli tanaman",
+        "category": "R"
+      },
+      {
+        "question": "Operator alat-alat berat",
+        "category": "R"
+      },
+      {
+        "question": "Peninjau kelayakan (surveyor)",
+        "category": "R"
+      },
+      {
+        "question": "Pengawas kontruksi bangunan",
+        "category": "R"
+      },
+      {
+        "question": "pengemudi bis",
+        "category": "R"
+      },
+      {
+        "question": "Insinyur otomotif",
+        "category": "R"
+      },
+      {
+        "question": "Ahli mesin",
+        "category": "R"
+      },
+      {
+        "question": "Ahli listrik",
+        "category": "R"
+      },
+
+      {
+        "question": "Sosiolog",
+        "category": "S"
+      },
+      {
+        "question": "Guru sekolah lanjutan",
+        "category": "S"
+      },
+      {
+        "question": "Pakar kenakalan remaja",
+        "category": "S"
+      },
+      {
+        "question": "Terapi bicara",
+        "category": "S"
+      },
+      {
+        "question": "Konselor pernikahan",
+        "category": "S"
+      },
+      {
+        "question": "Kepala sekolah",
+        "category": "S"
+      },
+      {
+        "question": "Fisioterapis",
+        "category": "S"
+      },
+      {
+        "question": "Psikolog klinis",
+        "category": "S"
+      },
+      {
+        "question": "Guru ilmu sosial",
+        "category": "S"
+      },
+      {
+        "question": "Direktur lembaga masyarakat",
+        "category": "S"
+      },
+      {
+        "question": "Konselor masalah pribadi",
+        "category": "S"
+      },
+      {
+        "question": "Pekerja sosial",
+        "category": "S"
+      },
+      {
+        "question": "Konselor kejuruan dan pekerjaan",
+        "category": "S"
+      },
+
+      {
+        "question": "Ahli Meteorologi (Ilmu cuaca)",
+        "category": "I"
+      },
+      {
+        "question": "Ahli biologi",
+        "category": "I"
+      },
+      {
+        "question": "Ahli astronomi (ilmu bintang)",
+        "category": "I"
+      },
+      {
+        "question": "Teknisi laboratorium medis",
+        "category": "I"
+      },
+      {
+        "question": "Ahli antropologi",
+        "category": "I"
+      },
+      {
+        "question": "Ahli ilmu hewan",
+        "category": "I"
+      },
+      {
+        "question": "Ahli kimia",
+        "category": "I"
+      },
+      {
+        "question": "Ilmuwan peneliti",
+        "category": "I"
+      },
+      {
+        "question": "Penulis artikel ilmiah",
+        "category": "I"
+      },
+      {
+        "question": "Penyunting artikel ilmiah",
+        "category": "I"
+      },
+      {
+        "question": "Ahli geologi",
+        "category": "I"
+      },
+      {
+        "question": "Ahli botani (ilmu tumbuhan)",
+        "category": "I"
+      },
+      {
+        "question": "Pekerja riset ilmiah",
+        "category": "I"
+      },
+      {
+        "question": "Ahli fisika",
+        "category": "I"
+      },
+
+      {
+        "question": "Spekulator bisnis",
+        "category": "E"
+      },
+      {
+        "question": "Eksekutif pembelian",
+        "category": "E"
+      },
+      {
+        "question": "Eksekutif periklanan",
+        "category": "E"
+      },
+      {
+        "question": "Wakil perusahaan produksi",
+        "category": "E"
+      },
+      {
+        "question": "Penjual asuransi jiwa",
+        "category": "E"
+      },
+      {
+        "question": "Penyiar radio-TV",
+        "category": "E"
+      },
+      {
+        "question": "Eksekutif bisnis",
+        "category": "E"
+      },
+      {
+        "question": "Manajer restoran",
+        "category": "E"
+      },
+      {
+        "question": "Pembaca acara (MC)",
+        "category": "E"
+      },
+      {
+        "question": "Eksekutif penjualan",
+        "category": "E"
+      },
+      {
+        "question": "Eksekutif penjual real estate",
+        "category": "E"
+      },
+      {
+        "question": "Pemandu wisata",
+        "category": "E"
+      },
+      {
+        "question": "Manajer toko serba ada",
+        "category": "E"
+      },
+      {
+        "question": "Manajer penjualan",
+        "category": "E"
+      },
+
+      {
+        "question": "Penulis puisi",
+        "category": "A"
+      },
+      {
+        "question": "Dirigen simfoni",
+        "category": "A"
+      },
+      {
+        "question": "Pemain musik",
+        "category": "A"
+      },
+      {
+        "question": "Penulis novel",
+        "category": "A"
+      },
+      {
+        "question": "Aktor/Aktris",
+        "category": "A"
+      },
+      {
+        "question": "Penulis lepas",
+        "category": "A"
+      },
+      {
+        "question": "Penata musik",
+        "category": "A"
+      },
+      {
+        "question": "Wartawan",
+        "category": "A"
+      },
+      {
+        "question": "Seniman",
+        "category": "A"
+      },
+      {
+        "question": "Penyanyi",
+        "category": "A"
+      },
+      {
+        "question": "Pengubah musik",
+        "category": "A"
+      },
+      {
+        "question": "Pemahat patung",
+        "category": "A"
+      },
+      {
+        "question": "Penulis sandiwara",
+        "category": "A"
+      },
+      {
+        "question": "Kartunis",
+        "category": "A"
+      },
+
+      {
+        "question": "Ahli pembukuan",
+        "category": "C"
+      },
+      {
+        "question": "Guru bisnis/ilmu dagang",
+        "category": "C"
+      },
+      {
+        "question": "Pemeriksa anggaran",
+        "category": "C"
+      },
+      {
+        "question": "Akuntan publik bersertifikat",
+        "category": "C"
+      },
+      {
+        "question": "Penyelidik kredit",
+        "category": "C"
+      },
+      {
+        "question": "Pencatat steno di pengadilan",
+        "category": "C"
+      },
+      {
+        "question": "Kasir bank",
+        "category": "C"
+      },
+      {
+        "question": "Ahli pajak",
+        "category": "C"
+      },
+      {
+        "question": "Pengawas barang inventaris",
+        "category": "C"
+      },
+      {
+        "question": "Operator alat listrik kantor",
+        "category": "C"
+      },
+      {
+        "question": "Analisis keuangan",
+        "category": "C"
+      },
+      {
+        "question": "Penaksir biaya",
+        "category": "C"
+      },
+      {
+        "question": "Pembayar gaji",
+        "category": "C"
+      },
+      {
+        "question": "Pemeriksa di bank",
+        "category": "C"
+      }
+    ]
+  }
+
+
+]
